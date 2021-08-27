@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Infrastructure.Cloudinary\Infrastructure.Cloudinary.csproj" />
-    <ProjectReference Include="..\infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
